@@ -1,6 +1,6 @@
 # Startups_Analysis_Project
 # Data_Science
-# Project Highlights
+### Project Highlights
 1. **Data Cleaning & Processing**: Handled missing values, removed inconsistencies, and prepared data for analysis.  
 2. **Exploratory Data Analysis (EDA)**: Visualized trends in investment, revenue, and company performance.  
 3. **Statistical Insights**: Identified factors influencing startup success, including funding amounts, industry sectors, and market trends.  
